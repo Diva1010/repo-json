@@ -1,0 +1,9 @@
+{
+  "login": [
+    { "stuId": 1, "username": "Divya Kaushik", "role":"Student" }]
+  ,
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
