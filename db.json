@@ -1,6 +1,6 @@
 {
   "login": 
-    { "stuId": 1, "username": "Divya Kaushik", "role":"Student" }
+    { "stuId": 1, "username": "Divya Kaushik", "role":"Teacher" }
   ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
