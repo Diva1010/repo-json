@@ -2,8 +2,11 @@
   "login": 
     { "stuId": 1, "username": "Divya Kaushik", "role":"Teacher" }
   ,
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "popularCourses": [
+    { "name": "Programming Second Life", "description": "Learning LSL to code Second Life", "extraDesc": "Starts 1st December" },
+    { "name": "Coding with PHP", "description": "Web Development using Hypertext Preprocessor (PHP)", "extraDesc": "Starts in 1 Week" },
+    { "name": "Game Development with Python", "description": "Create Games using Python", "extraDesc": "On-Going" },
+    { "name": "SQL Programming : Introduction", "description": "Quering Database using SQL", "extraDesc": "Starts 20th December" }
   ],
   "profile": { "name": "typicode" }
 }
