@@ -3,10 +3,10 @@
     { "stuId": 1, "username": "Divya Kaushik", "role":"Teacher" }
   ,
   "popularCourses": [
-    { "name": "Programming Second Life", "description": "Learning LSL to code Second Life", "extraDesc": "Starts 1st December" },
-    { "name": "Coding with PHP", "description": "Web Development using Hypertext Preprocessor (PHP)", "extraDesc": "Starts in 1 Week" },
-    { "name": "Game Development with Python", "description": "Create Games using Python", "extraDesc": "On-Going" },
-    { "name": "SQL Programming : Introduction", "description": "Quering Database using SQL", "extraDesc": "Starts 20th December" }
+    { "name": "Programming Second Life", "description": "Learning LSL to code Second Life", "extraDesc": "Starts 1st December", "img":"https://s3.amazonaws.com/skinner-production/stories/featured_images/000/020/876/large/second-life.jpg?1515710328"},
+    { "name": "Coding with PHP", "description": "Web Development using Hypertext Preprocessor (PHP)", "extraDesc": "Starts in 1 Week", "img":"https://cdn.lynda.com/static/landing/images/hero/AdvanceyourSkillsasaPHPDeveloper-CorePHP_1420x630-1503427756924.jpg"},
+    { "name": "Game Development with Python", "description": "Create Games using Python", "extraDesc": "On-Going", "img": "https://www.techworm.net/programming/wp-content/uploads/2018/08/Untitled-3.png" },
+    { "name": "SQL Programming : Introduction", "description": "Quering Database using SQL", "extraDesc": "Starts 20th December", "img":"https://cdn.lynda.com/course/718660/718660-636656071008854100-16x9.jpg" }
   ],
   "profile": { "name": "typicode" }
 }
