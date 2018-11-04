@@ -12,9 +12,9 @@
     { "name": "AWS Developer", "description": "AWS Certified Developer training", "extraDesc": "Finished", "img":"https://cdn-images-1.medium.com/max/1600/1*Kj2hYz9-o0nKbP9aSCdd4A.png"},
     { "name": "Ethical Hacking - Beginner", "description": "Learn basics of Ethical Hacking", "extraDesc": "Starts in 1 month", "img":"https://www.eccouncil.org/wp-content/uploads/2011/05/Ethical-hacking-02.jpg"},
     { "name": "Linux", "description": "Learn Linux in 5 days", "extraDesc": "Starts in 70 days", "img": "https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/tux_linux_penguin_code_binary.jpg?itok=TxGxW0KY" },
-    { "name": "Spring Framekwork : Beginner", "description": "Learn to code in Java Spring", "extraDesc": "Finished", "img":"https://cdn-images-1.medium.com/max/2000/1*gycg7f5bYLuR4ut_JAEs7A.png" }
-    { "name": "BlockChain and Bitcoin", "description": "Basic fundamentals of Block chain and bitcoin", "extraDesc": "On-Going", "img":"https://news.bitcoin.com/wp-content/uploads/2015/10/b7878.jpg" }
-    { "name": "Agile Crash Course", "description": "Project Management using Agile Framework", "extraDesc": "Starts in 1 day", "img":"https://cdn-images-1.medium.com/max/935/0*CijaYHzYRxlQqMtw." }
+    { "name": "Spring Framekwork : Beginner", "description": "Learn to code in Java Spring", "extraDesc": "Finished", "img":"https://cdn-images-1.medium.com/max/2000/1*gycg7f5bYLuR4ut_JAEs7A.png" },
+    { "name": "BlockChain and Bitcoin", "description": "Basic fundamentals of Block chain and bitcoin", "extraDesc": "On-Going", "img":"https://news.bitcoin.com/wp-content/uploads/2015/10/b7878.jpg" },
+    { "name": "Agile Crash Course", "description": "Project Management using Agile Framework", "extraDesc": "Starts in 1 day", "img":"https://cdn-images-1.medium.com/max/935/0*CijaYHzYRxlQqMtw." },
     { "name": "Cisco : CCNA", "description": "CCNA certification guide", "extraDesc": "Starts in 10 days", "img":"http://ibomelibrary.org/file/2016/01/ccna.jpg" }
   
   ]
